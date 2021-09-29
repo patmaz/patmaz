@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @patmaz
+- 👀 I’m interested in frontend development and UX
+- 🌱 I’m currently learning UX skills
+- 📫 Reach me on codebooyah.com
