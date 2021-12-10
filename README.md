@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @patmaz
-- 👀 I’m interested in frontend development and UX
-- 🌱 I’m currently learning UX skills
+- 👋 Hi, I’m Patryk
+- 👷🏼 I work as a frontend software engineer @ Allegro.pl
+- 🌱 I’m currently improving UX skills (🧑🏼‍🎓 with a degree in psychology)
+- 🎶/🤘🏼, 🚴🏼‍♂️
 - 📫 Reach me on codebooyah.com
