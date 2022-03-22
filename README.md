@@ -2,4 +2,4 @@
 - 👷🏼 I work as a frontend software engineer @ Allegro.pl
 - 🌱 I’m currently improving UX skills (🧑🏼‍🎓 with a degree in psychology)
 - 🎶/🤘🏼, 🚴🏼‍♂️
-- 📫 Reach me on codebooyah.com
+- 📫 Reach me on patmazurkiewicz.com
